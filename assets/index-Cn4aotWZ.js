@@ -2257,6 +2257,12 @@ Error generating stack: `+e.message+`
         }
 
         @media (max-width: 576px) {
+          .hero-content-wrapper {
+            padding: 2rem 1.5rem;
+            margin-left: 1rem;
+            margin-right: 1rem;
+            border-radius: 16px;
+          }
           .choose-grid {
             grid-template-columns: 1fr;
           }
