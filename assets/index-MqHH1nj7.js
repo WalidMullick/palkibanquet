@@ -16,7 +16,6 @@ Error generating stack: `+e.message+`
           z-index: 1000;
           transition: var(--transition-smooth);
           background: transparent;
-          border-bottom: 1px solid rgba(255, 255, 255, 0.05);
         }
 
         .header-container.scrolled {
@@ -24,7 +23,6 @@ Error generating stack: `+e.message+`
           backdrop-filter: blur(15px);
           -webkit-backdrop-filter: blur(15px);
           height: 70px;
-          border-bottom: 1px solid rgba(197, 160, 89, 0.2);
           box-shadow: 0 4px 30px rgba(0, 0, 0, 0.03);
         }
 
