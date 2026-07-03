@@ -28,22 +28,22 @@
     "metaTitle": "Palki Banquet | Premium Luxury Banquet Hall in Munshirhat, Howrah",
     "metaDescription": "Experience grandeur at Palki Banquet, Munshirhat. Premium fully air-conditioned 6500 sq.ft banquet hall with rooftop garden, deluxe guest rooms, and state-of-the-art facilities for weddings, receptions, and corporate events.",
     "metaKeywords": "Banquet Hall in Munshirhat, Best Banquet Hall in Munshirhat, Wedding Hall in Munshirhat, Reception Hall in Munshirhat, Banquet Hall in J.B. Pur, Banquet Hall in Howrah, Luxury Banquet Hall in Howrah, Wedding Venue in Howrah, Marriage Hall Near Munshirhat, Marriage Hall Near Jagatballavpur",
-    "ogImage": "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?auto=format&fit=crop&w=1200&q=80"
+    "ogImage": "https://images.pexels.com/photos/1616113/pexels-photo-1616113.jpeg?auto=compress&cs=tinysrgb&w=1200"
   },
   "hero": {
     "heading": "Celebrate Life's Most Precious Moments",
     "subheading": "Premium luxury banquet hall in Munshirhat, Howrah for weddings, receptions, engagements, birthdays, anniversaries, and corporate events.",
     "slides": [
       {
-        "image": "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?auto=format&fit=crop&w=1920&q=80",
-        "alt": "Luxury Banquet Setup"
+        "image": "https://images.pexels.com/photos/1616113/pexels-photo-1616113.jpeg?auto=compress&cs=tinysrgb&w=1920",
+        "alt": "Luxury Banquet Hall Setup"
       },
       {
-        "image": "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&w=1920&q=80",
+        "image": "https://images.pexels.com/photos/169198/pexels-photo-169198.jpeg?auto=compress&cs=tinysrgb&w=1920",
         "alt": "Grand Wedding Ceremony Decoration"
       },
       {
-        "image": "https://images.unsplash.com/photo-1502635385003-ee1e6a1a742d?auto=format&fit=crop&w=1920&q=80",
+        "image": "https://images.pexels.com/photos/587741/pexels-photo-587741.jpeg?auto=compress&cs=tinysrgb&w=1920",
         "alt": "Premium Stage Flower Decor"
       }
     ]
@@ -152,82 +152,82 @@
       "id": "wedding",
       "title": "Weddings",
       "description": "Host your dream royal wedding with exquisite seating, premium stage decor, and grand entry arrangements.",
-      "image": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=800&q=80"
+      "image": "https://images.pexels.com/photos/1616113/pexels-photo-1616113.jpeg?auto=compress&cs=tinysrgb&w=800"
     },
     {
       "id": "reception",
       "title": "Receptions",
       "description": "An elegant celebratory evening on our open rooftop garden or high-ceiling banquet hall with premium catering setups.",
-      "image": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&w=800&q=80"
+      "image": "https://images.pexels.com/photos/169198/pexels-photo-169198.jpeg?auto=compress&cs=tinysrgb&w=800"
     },
     {
       "id": "engagement",
       "title": "Engagements",
       "description": "A sophisticated ring-exchange ceremony customized with matching backdrops and warm ambient illumination.",
-      "image": "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?auto=format&fit=crop&w=800&q=80"
+      "image": "https://images.pexels.com/photos/931796/pexels-photo-931796.jpeg?auto=compress&cs=tinysrgb&w=800"
     },
     {
       "id": "birthday",
       "title": "Birthday Parties",
       "description": "Fun, colorful, or themed birthday setups complete with selfie zones, professional sound, and gaming spaces for kids.",
-      "image": "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?auto=format&fit=crop&w=800&q=80"
+      "image": "https://images.pexels.com/photos/1729783/pexels-photo-1729783.jpeg?auto=compress&cs=tinysrgb&w=800"
     },
     {
       "id": "anniversary",
       "title": "Anniversaries",
       "description": "Reconnect with family and friends in a warm celebration of your years together, supported by photo slideshow setups.",
-      "image": "https://images.unsplash.com/photo-1513273195090-c8f94901a82f?auto=format&fit=crop&w=800&q=80"
+      "image": "https://images.pexels.com/photos/587741/pexels-photo-587741.jpeg?auto=compress&cs=tinysrgb&w=800"
     },
     {
       "id": "corporate",
       "title": "Corporate Events",
       "description": "Spacious setup for annual general meetings, product launches, training sessions, and corporate dinners.",
-      "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?auto=format&fit=crop&w=800&q=80"
+      "image": "https://images.pexels.com/photos/1181406/pexels-photo-1181406.jpeg?auto=compress&cs=tinysrgb&w=800"
     },
     {
       "id": "babyshower",
       "title": "Baby Showers",
       "description": "Delightful decor and comfortable seating arrangements designed for mom-to-be comfort and family rituals.",
-      "image": "https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?auto=format&fit=crop&w=800&q=80"
+      "image": "https://images.pexels.com/photos/3419692/pexels-photo-3419692.jpeg?auto=compress&cs=tinysrgb&w=800"
     },
     {
       "id": "riceceremony",
       "title": "Rice Ceremonies",
       "description": "A highly traditional, hygienic, and welcoming environment for your child's sacred first-solid-feeding event.",
-      "image": "https://images.unsplash.com/photo-1549417229-aa67d3263c09?auto=format&fit=crop&w=800&q=80"
+      "image": "https://images.pexels.com/photos/3171837/pexels-photo-3171837.jpeg?auto=compress&cs=tinysrgb&w=800"
     },
     {
       "id": "family",
       "title": "Family Gatherings",
       "description": "Get-togethers, reunions, and festive parties managed beautifully by our hospitable, service-oriented venue staff.",
-      "image": "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&w=800&q=80"
+      "image": "https://images.pexels.com/photos/1860618/pexels-photo-1860618.jpeg?auto=compress&cs=tinysrgb&w=800"
     }
   ],
   "gallery": [
-    { "category": "wedding", "url": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=800&q=80", "alt": "Luxury wedding stage floral arrangement" },
-    { "category": "wedding", "url": "https://images.unsplash.com/photo-1519225495810-7512c696505a?auto=format&fit=crop&w=800&q=80", "alt": "Bridesmaid walking down the aisle" },
-    { "category": "reception", "url": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&w=800&q=80", "alt": "Reception dinner table decorations" },
-    { "category": "reception", "url": "https://images.unsplash.com/photo-1502635385003-ee1e6a1a742d?auto=format&fit=crop&w=800&q=80", "alt": "Stunning stage setting for reception night" },
-    { "category": "engagement", "url": "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?auto=format&fit=crop&w=800&q=80", "alt": "Champagne glasses toast engagement party" },
-    { "category": "birthday", "url": "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?auto=format&fit=crop&w=800&q=80", "alt": "Bright birthday balloons background" },
-    { "category": "decoration", "url": "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?auto=format&fit=crop&w=800&q=80", "alt": "Premium golden themed ceiling and chandelier" },
-    { "category": "stage", "url": "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&w=800&q=80", "alt": "Elegant white theme marriage stage design" },
-    { "category": "dining", "url": "https://images.unsplash.com/photo-1549417229-aa67d3263c09?auto=format&fit=crop&w=800&q=80", "alt": "Catering display and chafing dishes" },
-    { "category": "rooftop", "url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=800&q=80", "alt": "Rooftop garden party event lighting" },
-    { "category": "guest rooms", "url": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?auto=format&fit=crop&w=800&q=80", "alt": "Air-conditioned deluxe bridal guest room" },
-    { "category": "corporate events", "url": "https://images.unsplash.com/photo-1511578314322-379afb476865?auto=format&fit=crop&w=800&q=80", "alt": "Corporate dinner roundtable arrangement" }
+    { "category": "wedding", "url": "https://images.pexels.com/photos/1616113/pexels-photo-1616113.jpeg?auto=compress&cs=tinysrgb&w=800", "alt": "Luxury wedding stage floral arrangement" },
+    { "category": "wedding", "url": "https://images.pexels.com/photos/2253870/pexels-photo-2253870.jpeg?auto=compress&cs=tinysrgb&w=800", "alt": "Elegant wedding hall setup" },
+    { "category": "reception", "url": "https://images.pexels.com/photos/169198/pexels-photo-169198.jpeg?auto=compress&cs=tinysrgb&w=800", "alt": "Reception dinner table decorations" },
+    { "category": "reception", "url": "https://images.pexels.com/photos/587741/pexels-photo-587741.jpeg?auto=compress&cs=tinysrgb&w=800", "alt": "Stunning stage setting for reception night" },
+    { "category": "engagement", "url": "https://images.pexels.com/photos/931796/pexels-photo-931796.jpeg?auto=compress&cs=tinysrgb&w=800", "alt": "Champagne glasses toast engagement party" },
+    { "category": "birthday", "url": "https://images.pexels.com/photos/1729783/pexels-photo-1729783.jpeg?auto=compress&cs=tinysrgb&w=800", "alt": "Bright birthday balloons background" },
+    { "category": "decoration", "url": "https://images.pexels.com/photos/1114425/pexels-photo-1114425.jpeg?auto=compress&cs=tinysrgb&w=800", "alt": "Premium golden themed ceiling and chandelier" },
+    { "category": "stage", "url": "https://images.pexels.com/photos/2306281/pexels-photo-2306281.jpeg?auto=compress&cs=tinysrgb&w=800", "alt": "Elegant white theme marriage stage design" },
+    { "category": "dining", "url": "https://images.pexels.com/photos/1267320/pexels-photo-1267320.jpeg?auto=compress&cs=tinysrgb&w=800", "alt": "Catering display and buffet setup" },
+    { "category": "rooftop", "url": "https://images.pexels.com/photos/1770809/pexels-photo-1770809.jpeg?auto=compress&cs=tinysrgb&w=800", "alt": "Rooftop garden party event lighting" },
+    { "category": "guest rooms", "url": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&w=800", "alt": "Air-conditioned deluxe bridal guest room" },
+    { "category": "corporate events", "url": "https://images.pexels.com/photos/1181406/pexels-photo-1181406.jpeg?auto=compress&cs=tinysrgb&w=800", "alt": "Corporate dinner roundtable arrangement" }
   ],
   "videos": [
     {
       "id": "promo",
       "title": "PALKI BANQUET Grand Virtual Tour",
-      "thumbnail": "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?auto=format&fit=crop&w=800&q=80",
+      "thumbnail": "https://images.pexels.com/photos/1616113/pexels-photo-1616113.jpeg?auto=compress&cs=tinysrgb&w=800",
       "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
     },
     {
       "id": "decor-showcase",
       "title": "Royal Wedding & Floral Decoration Showcase",
-      "thumbnail": "https://images.unsplash.com/photo-1502635385003-ee1e6a1a742d?auto=format&fit=crop&w=800&q=80",
+      "thumbnail": "https://images.pexels.com/photos/587741/pexels-photo-587741.jpeg?auto=compress&cs=tinysrgb&w=800",
       "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
     }
   ],
