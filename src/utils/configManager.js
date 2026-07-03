@@ -10,7 +10,8 @@ export async function loadConfig() {
   if (cachedConfig) return cachedConfig;
   
   try {
-    const response = await fetch('/config.json');
+    const baseUrl = import.meta.env.BASE_URL || '/';
+    const response = await fetch(`${baseUrl}config.json`);
     if (!response.ok) throw new Error('Failed to load default config.json');
     const defaultConfig = await response.json();
     
