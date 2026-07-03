@@ -8,5 +8,5 @@ copy /Y "D:\Palki Website\dist\favicon.svg" favicon.svg
 copy /Y "D:\Palki Website\dist\icons.svg" icons.svg
 copy /Y "D:\Palki Website\dist\.nojekyll" .nojekyll
 git add .
-git commit -m "Deploy: clean build output at root"
+git commit -m "Remove sections per user request"
 git push origin gh-pages
