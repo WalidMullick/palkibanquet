@@ -1538,7 +1538,7 @@ Error generating stack: `+e.message+`
           backdrop-filter: blur(18px);
           -webkit-backdrop-filter: blur(18px);
           border: 1px solid rgba(197, 160, 89, 0.25);
-          border-radius: 4px;
+          border-radius: 24px;
           box-shadow: 0 8px 48px rgba(0,0,0,0.3), inset 0 1px 0 rgba(197,160,89,0.15);
         }
 
