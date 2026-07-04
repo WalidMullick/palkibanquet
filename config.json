@@ -205,7 +205,6 @@
   ],
   "gallery": [
     { "category": "wedding", "url": "https://images.pexels.com/photos/1616113/pexels-photo-1616113.jpeg?auto=compress&cs=tinysrgb&w=800", "alt": "Luxury wedding stage floral arrangement" },
-    { "category": "wedding", "url": "https://images.pexels.com/photos/2253870/pexels-photo-2253870.jpeg?auto=compress&cs=tinysrgb&w=800", "alt": "Elegant wedding hall setup" },
     { "category": "reception", "url": "https://images.pexels.com/photos/169198/pexels-photo-169198.jpeg?auto=compress&cs=tinysrgb&w=800", "alt": "Reception dinner table decorations" },
     { "category": "reception", "url": "https://images.pexels.com/photos/587741/pexels-photo-587741.jpeg?auto=compress&cs=tinysrgb&w=800", "alt": "Stunning stage setting for reception night" },
     { "category": "engagement", "url": "https://images.pexels.com/photos/931796/pexels-photo-931796.jpeg?auto=compress&cs=tinysrgb&w=800", "alt": "Champagne glasses toast engagement party" },
